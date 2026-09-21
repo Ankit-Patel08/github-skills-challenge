@@ -21,4 +21,3 @@ jobs:
           python -m pip install pytest
       - name: Test with pytest
         run: python -m pytest --verbose
-        pytest --verbose
